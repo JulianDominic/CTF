@@ -179,4 +179,4 @@ This has been an eye-opening experience to the different types of problems and c
 
 This has been an excellent mental exercise to kickstart my brain for my upcoming university education.
 
-I hope to participate in more CTFs in the future and I will continue to learn more about Cryptography so that I can finally sovle a challenge in the Cryptography category!
+I hope to participate in more CTFs in the future and I will continue to learn more about Cryptography so that I can finally solve a challenge in the Cryptography category!
