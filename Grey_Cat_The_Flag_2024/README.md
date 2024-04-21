@@ -167,7 +167,7 @@ if __name__ == "__main__":
 
 After a while, I started to notice that my guesses were **ahead** of the server's guess by about 1 or 2.
 
-![All About Time Pattern](aat_pattern.png)
+![All About Time Pattern](images/aat_pattern.png)
 
 I realised that I needed to "slow down"/delay my guess. From here, it was just tweaking `random.seed(int(time.time() + x))` where I played around with `x = 0.1, x = 0.25, x = 0.5, x = 1, x = 1.1`. `x=1.1` is where I managed to successfully match up with server and obtained the flag.
 
